@@ -1,6 +1,6 @@
 {
     "name": "process-argvs",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "计算 node process 脚本参数",
     "main": "./src/index.js",
     "author": "Pyrine.Law <petrus_law@yeah.net>",
